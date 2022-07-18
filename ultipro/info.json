@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "label": "Ultipro",
   "description": "This connector is capable of querying Ultipro for Employee, Job, and Phone details.",
-  "publisher": "Fortinet-CSE",
+  "publisher": "Community",
   "icon_small_name": "small.png",
   "icon_large_name": "large.png",
   "category": "utilities",

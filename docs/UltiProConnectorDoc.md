@@ -7,7 +7,7 @@ This connector is capable of querying Ultipro for Employee, Job, and Phone detai
 Connector Version: 1.0.0
 
 
-Authored By: Fortinet-CSE
+Authored By: Dylan Spille (Fortinet-PSE)
 
 Certified: No
 ## Installing the connector
